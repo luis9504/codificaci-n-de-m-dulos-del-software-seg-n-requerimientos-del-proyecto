@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
+
+APLICACIÓN PORCENTAJE DE TIEMPO: Permite calcular el porcentaje de tiempo para dos variables, util para conocer el porcentaje de tiempo con el balón de un equipo de futbol.
+
